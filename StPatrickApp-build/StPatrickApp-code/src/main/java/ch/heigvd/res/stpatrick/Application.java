@@ -12,5 +12,8 @@ public class Application {
   public IStreamProcessorsFactory getStreamProcessorsFactory() {
     return processorsFactory;
   }
+  public static void main(String[] args) {
+      
+  }
 
 }
